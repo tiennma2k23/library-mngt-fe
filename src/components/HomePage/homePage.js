@@ -41,7 +41,7 @@ export default function HomePage() {
                 <h4>– Neil Gaiman</h4>
             </div>
            <BookLastest isAuthenticated={isAuthenticated}/>
-           <Category />
+           {/*<Category />*/}
            <Quote />
            <Footer />
         </div>
